@@ -28,3 +28,15 @@ print(my_list)
 # 2.2 定义非空列表
 my_list1=[1,'小明',3.22,]
 print(my_list1)
+
+
+# 下标
+
+list3=['小明','18','1.7',True]
+print(list3[0])
+
+#列表也支持len 求长度 求元素的个数 相当于数据元素的个数
+print(len(list3))
+
+
+
